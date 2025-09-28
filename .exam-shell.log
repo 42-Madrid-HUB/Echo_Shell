@@ -30,3 +30,12 @@
 [2025-09-28 20:03:06] INFO  srcs/shell.cpp:286 run | EOF received, exiting loop
 [2025-09-28 20:03:06] INFO  srcs/shell.cpp:301 run | Shell run() exited
 [2025-09-28 20:03:06] INFO  srcs/main.cpp:18 main | Exam shell exited
+[2025-09-28 20:12:36] INFO  srcs/main.cpp:13 main | Exam shell starting
+[2025-09-28 20:12:36] INFO  srcs/shell.cpp:258 run | Shell run() entered
+[2025-09-28 20:12:36] INFO  srcs/shell.cpp:89 print_welcome | Welcome banner displayed for user=dlesieur
+[2025-09-28 20:12:40] INFO  srcs/menu.cpp:40 startupAnimation | Startup animation shown
+[2025-09-28 20:12:42] INFO  srcs/menu.cpp:75 pickMode | Mode selection cancelled (EOF)
+[2025-09-28 20:12:42] INFO  srcs/shell.cpp:151 modeMenu | Mode selection cancelled
+[2025-09-28 20:12:42] INFO  srcs/shell.cpp:286 run | EOF received, exiting loop
+[2025-09-28 20:12:42] INFO  srcs/shell.cpp:301 run | Shell run() exited
+[2025-09-28 20:12:42] INFO  srcs/main.cpp:18 main | Exam shell exited
