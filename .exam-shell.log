@@ -1,0 +1,32 @@
+[2025-09-28 19:47:51] INFO  srcs/main.cpp:13 main | Exam shell starting
+[2025-09-28 19:47:51] INFO  srcs/shell.cpp:288 run | Shell run() entered
+[2025-09-28 19:47:51] INFO  srcs/shell.cpp:88 print_welcome | Welcome banner displayed for user=dlesieur
+[2025-09-28 19:48:06] INFO  srcs/shell.cpp:173 modeMenu | Mode selection cancelled (EOF)
+[2025-09-28 19:48:08] INFO  srcs/shell.cpp:312 run | EOF received, exiting loop
+[2025-09-28 19:48:08] INFO  srcs/shell.cpp:329 run | Shell run() exited
+[2025-09-28 19:48:08] INFO  srcs/main.cpp:18 main | Exam shell exited
+[2025-09-28 19:52:01] INFO  srcs/main.cpp:13 main | Exam shell starting
+[2025-09-28 19:52:01] INFO  srcs/shell.cpp:258 run | Shell run() entered
+[2025-09-28 19:52:01] INFO  srcs/shell.cpp:89 print_welcome | Welcome banner displayed for user=dlesieur
+[2025-09-28 19:52:05] INFO  srcs/menu.cpp:40 startupAnimation | Startup animation shown
+[2025-09-28 19:52:21] INFO  srcs/shell.cpp:156 modeMenu | Mode set to EVALUATION
+[2025-09-28 19:53:08] INFO  srcs/shell.cpp:286 run | EOF received, exiting loop
+[2025-09-28 19:53:08] INFO  srcs/shell.cpp:301 run | Shell run() exited
+[2025-09-28 19:53:08] INFO  srcs/main.cpp:18 main | Exam shell exited
+[2025-09-28 19:54:42] INFO  srcs/main.cpp:13 main | Exam shell starting
+[2025-09-28 19:54:42] INFO  srcs/shell.cpp:258 run | Shell run() entered
+[2025-09-28 19:54:42] INFO  srcs/shell.cpp:89 print_welcome | Welcome banner displayed for user=dlesieur
+[2025-09-28 19:54:46] INFO  srcs/menu.cpp:40 startupAnimation | Startup animation shown
+[2025-09-28 19:54:52] INFO  srcs/shell.cpp:157 modeMenu | Mode set to SANDBOX
+[2025-09-28 19:58:26] INFO  srcs/shell.cpp:286 run | EOF received, exiting loop
+[2025-09-28 19:58:26] INFO  srcs/shell.cpp:301 run | Shell run() exited
+[2025-09-28 19:58:26] INFO  srcs/main.cpp:18 main | Exam shell exited
+[2025-09-28 20:02:35] INFO  srcs/main.cpp:13 main | Exam shell starting
+[2025-09-28 20:02:35] INFO  srcs/shell.cpp:258 run | Shell run() entered
+[2025-09-28 20:02:35] INFO  srcs/shell.cpp:89 print_welcome | Welcome banner displayed for user=dlesieur
+[2025-09-28 20:02:39] INFO  srcs/menu.cpp:40 startupAnimation | Startup animation shown
+[2025-09-28 20:02:45] INFO  srcs/shell.cpp:156 modeMenu | Mode set to EVALUATION
+[2025-09-28 20:02:54] INFO  srcs/shell.cpp:228 operator() | Grademe invoked in mode=EVALUATION
+[2025-09-28 20:03:06] INFO  srcs/shell.cpp:286 run | EOF received, exiting loop
+[2025-09-28 20:03:06] INFO  srcs/shell.cpp:301 run | Shell run() exited
+[2025-09-28 20:03:06] INFO  srcs/main.cpp:18 main | Exam shell exited
